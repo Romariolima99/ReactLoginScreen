@@ -6,8 +6,7 @@
 - Este repositório contém uma aplicação de tela de login desenvolvida em React, que apresenta um fundo degradê atraente para aprimorar a experiência visual do usuário durante o processo de login.
 
 - Instruções de Uso:
-Clone este repositório para o seu ambiente local.
-bash
+- Clone este repositório para o seu ambiente local.
 
 - git clone https://github.com/Romariolima99/Tela-de-login-react.git
 - Navegue até o diretório do projeto:
