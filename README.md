@@ -12,7 +12,7 @@
 - Navegue até o diretório do projeto:
 
 - bash
-- cd nome-do-repositorio
+- cd Tela-de-login-react
 
 - Instale as dependências:
 - npm install
