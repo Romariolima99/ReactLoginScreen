@@ -14,7 +14,7 @@
 - bash
 - cd Tela-de-login-react
 
-- Instale as dependências:
+Instale as dependências:
 - npm install
 
 Inicie a aplicação:
