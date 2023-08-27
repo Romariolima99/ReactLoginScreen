@@ -11,7 +11,6 @@
 - git clone https://github.com/Romariolima99/Tela-de-login-react.git
 - Navegue até o diretório do projeto:
 
-- bash
 - cd Tela-de-login-react
 
 Instale as dependências:
