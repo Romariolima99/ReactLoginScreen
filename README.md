@@ -21,9 +21,9 @@ Inicie a aplicação:
 - npm start
 
 - Abra um navegador da web e acesse http://localhost:3000 para visualizar a tela de login.
-Tecnologias Utilizadas:
 
--React: A biblioteca JavaScript usada para construir a interface de usuário interativa.
+- Tecnologias Utilizadas:
+- React: A biblioteca JavaScript usada para construir a interface de usuário interativa.
 
 - Estrutura do Projeto:
 
