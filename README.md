@@ -7,16 +7,16 @@
 # Instale as dependências:
 - npm install
 
-Inicie a aplicação:
+# Inicie a aplicação:
 - npm start
 
 - Abra um navegador da web e acesse http://localhost:3000 para visualizar a tela de login.
 
-- Tecnologias Utilizadas:
-- React: A biblioteca JavaScript usada para construir a interface de usuário interativa.
+# Tecnologias Utilizadas:
+- `React`: A biblioteca JavaScript usada para construir a interface de usuário interativa.
+- `{useState}`: O mais simples e usado dos React Hooks, o useState permite armazenar qualquer valor em um componente, como string, object, array, boolean, number, null.
 
-- Estrutura do Projeto:
-
+# Estrutura do Projeto:
 - `src/index.js`: O componente React que define a estrutura e a lógica da tela de login.
 - `src/App.js e src/index.js`: Arquivos principais da aplicação React.
 - `public/index.html`: Arquivo HTML base para a aplicação.
