@@ -2,7 +2,7 @@
 
 - Readme - Tela de Login em React com Background Degradê.
 
-# Este repositório contém uma aplicação de tela de login desenvolvida em React, que apresenta um fundo degradê atraente para aprimorar a experiência visual do usuário durante o processo de login.
+- Este repositório contém uma aplicação de tela de login desenvolvida em React, que apresenta um fundo degradê atraente para aprimorar a experiência visual do usuário durante o processo de login.
 
 # Instale as dependências:
 - npm install
